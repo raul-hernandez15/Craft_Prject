@@ -1,0 +1,29 @@
+body{
+	background-size: 100% 170%;
+}
+h1{
+	font-family: 'Yeseva One', cursive;	
+	text-align: center;
+	padding-top: 20px;
+	font-size: 75px;
+	color: white;
+}
+h3{
+	font-family: 'Yeseva One', cursive;
+	text-align: center;
+	color: white;
+}
+div{
+	font-family: 'Yeseva One', cursive;
+	text-align: center;
+	padding: 25px;
+	color: white;
+	width: 700px;
+	margin-right: auto;
+	margin-left: auto;
+}
+form{
+	font-family: 'Yeseva One', cursive;
+	text-align: center;
+	color: white;
+}
