@@ -12,6 +12,7 @@ h3{
 	font-family: 'Yeseva One', cursive;
 	text-align: center;
 	color: white;
+	padding: 30px;
 }
 div{
 	font-family: 'Yeseva One', cursive;
@@ -26,4 +27,5 @@ form{
 	font-family: 'Yeseva One', cursive;
 	text-align: center;
 	color: white;
+	font-size: 25px;
 }
